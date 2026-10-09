@@ -1,0 +1,13 @@
+# Credentials and local environment
+.env
+.env.*
+.venv/
+venv/
+.continue/
+__pycache__/
+*.py[cod]
+
+# Generated NCERT content and runtime state
+biology_store/
+neet_tracker.db*
+bot.log*
